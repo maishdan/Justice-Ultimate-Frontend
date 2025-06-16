@@ -18,7 +18,7 @@ function App() {
       </div>
       <h1>Justice Ultimate Automobiles</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
+        <button onClick={() => setCount((count) => count + 5)}>
           count is {count}
         </button>
         <p>
@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        @2025 Justice Ultimate Automobiles: Your trusted partner in automotive excellence.
       </p>
     </>
   )
